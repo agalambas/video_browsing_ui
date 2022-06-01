@@ -1,16 +1,5 @@
-# video_browsing_ui
+# Video Browser | Mobile App UI
 
-A new Flutter project.
+A Blindside Coding Challenge
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![UI](https://user-images.githubusercontent.com/23039652/171312147-b9866dc3-7e37-4808-9a22-dcc6a180e1f4.png)
